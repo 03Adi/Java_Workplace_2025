@@ -11,10 +11,8 @@ Each month, a new folder is created following the naming convention **YYYY-MM** 
 ## 📆 Monthly Progress
 | Date        | Task Description                                   |
 |------------|--------------------------------------------------|
-| 2025-02-01 | Created repository and initialized structure    |
-| 2025-02-02 | Started Project3 (Description of work)         |
-| 2025-02-03 | Implemented feature XYZ in Project3           |
-| 2025-02-04 | Started Project4 (Description of work)         |
+| 2025-02-01 | Planning and create a roadmap    |
+| .......... | .......................................         |
 | 2025-02-12 | operators, exception handling                 |
 
 
