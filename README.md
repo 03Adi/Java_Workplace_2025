@@ -8,6 +8,16 @@ This repository is designed to maintain my Java development journey, showcasing 
 ## 📅 Monthly Breakdown
 Each month, a new folder is created following the naming convention **YYYY-MM** (e.g., `2025-02` for February 2025). Inside each folder, you will find Java files, documentation, and relevant resources.
 
+## 📆 Monthly Progress
+| Date        | Task Description                                   |
+|------------|--------------------------------------------------|
+| 2025-02-01 | Created repository and initialized structure    |
+| 2025-02-02 | Started Project3 (Description of work)         |
+| 2025-02-03 | Implemented feature XYZ in Project3           |
+| 2025-02-04 | Started Project4 (Description of work)         |
+| ...        | ...                                            |
+
+
 ## 📂 Folder Structure
 ```
 java_workplace/
@@ -59,4 +69,3 @@ I will be adding the following types of Java-based work:
 - **Email:** your.email@example.com
 
 ### 🚀 Happy Coding!
-
