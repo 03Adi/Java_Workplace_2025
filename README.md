@@ -12,7 +12,7 @@ Each month, a new folder is created following the naming convention **YYYY-MM** 
 | Week  | Task Description                    |  
 |---------|-------------------------------------|  
 | Week 1  | Roadmap Planning                   |  
-|---------|-------------------------------------|
+|.........|-------------------------------------|
 | Week 1  | Roadmap Planning                   |  
 
 ## 📂 Folder Structure
