@@ -11,9 +11,13 @@ Each month, a new folder is created following the naming convention **YYYY-MM** 
 ## 📆 Monthly Progress  
 | Week  | Task Description                    |  
 |---------|-------------------------------------|  
-| Week 1  | Roadmap Planning                   |  
-|.........|-------------------------------------|
-| Week 1  | Roadmap Planning                   |  
+| Week 1  | Java Basics(Data Type, operators, exception handling, HTML, CSS                   |  
+|---------|-------------------------------------|
+| Week 2  | OOP'S, JS                   |  
+|---------|-------------------------------------|
+| Week 3  | Multithreading, Java8, Generic...                   | 
+|---------|-------------------------------------|
+| Week 4  | Lambda Expression, Exception Handling, JDBC                   | 
 
 ## 📂 Folder Structure
 ```
