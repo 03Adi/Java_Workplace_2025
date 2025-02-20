@@ -8,12 +8,12 @@ This repository is designed to maintain my Java development journey, showcasing 
 ## 📅 Monthly Breakdown
 Each month, a new folder is created following the naming convention **YYYY-MM** (e.g., `2025-02` for February 2025). Inside each folder, you will find Java files, documentation, and relevant resources.
 
-## 📆 Monthly Progress
-| Date        | Task Description                                   |
-|------------|--------------------------------------------------|
-| 2025-02-01 | Roadmap Planning.............    |
-| .......... | .......................................         |
-| 2025-02-12 | operators, exception handling                 |
+## 📆 Monthly Progress  
+| Date        | Week No. | Task Description                    |  
+|------------|---------|-------------------------------------|  
+| 2025-02-01 | Week 1  | Roadmap Planning                   |  
+| .......... | ....... | .................................. |  
+| 2025-02-12 | Week 2  | Operators, Exception Handling      |  
 
 
 ## 📂 Folder Structure
