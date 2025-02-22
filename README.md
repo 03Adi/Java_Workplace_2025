@@ -1,5 +1,5 @@
 # Java Workplace 2025
-
+ 
 Welcome to the **Java Workplace** repository! 🚀 This repository serves as a structured archive where I upload and organize my Java projects and tasks on a **monthly basis**.
 
 ## 📌 Repository Overview
