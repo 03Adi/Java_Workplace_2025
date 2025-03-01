@@ -19,6 +19,17 @@ Each month, a new folder is created following the naming convention **YYYY-MM** 
 |---------|-------------------------------------|
 | Week 4  | Lambda Expression, Exception Handling, JDBC                   | 
 
+## 📆 March Progress   
+| Week  | Task Description                    |  
+|---------|-------------------------------------|  
+| Week 1  | portfoliio development, github production       |  
+|---------|-------------------------------------|
+| Week 2  |                   |  
+|---------|-------------------------------------|
+| Week 3  |                    | 
+|---------|-------------------------------------|
+| Week 4  |                   | 
+
 ## 📂 Folder Structure
 ```
 java_workplace/
