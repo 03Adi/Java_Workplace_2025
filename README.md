@@ -22,7 +22,7 @@ Each month, a new folder is created following the naming convention **YYYY-MM** 
 ## 📆 March Progress   
 | Week  | Task Description                    |  
 |---------|-------------------------------------|  
-| Week 1  | portfoliio development, github production       |  
+| Week 1  | portfoliio development, github production, Java Basics|  
 |---------|-------------------------------------|
 | Week 2  |                   |  
 |---------|-------------------------------------|
