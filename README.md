@@ -8,17 +8,6 @@ This repository is designed to maintain my Java development journey, showcasing 
 ## 📅 Monthly Breakdown
 Each month, a new folder is created following the naming convention **YYYY-MM** (e.g., `2025-02` for February 2025). Inside each folder, you will find Java files, documentation, and relevant resources.
 
-## 📆 February Progress   
-| Week  | Task Description                    |  
-|---------|-------------------------------------|  
-| Week 1  | Java Basics(Data Type, operators, exception handling, HTML, CSS                   |  
-|---------|-------------------------------------|
-| Week 2  | OOP'S, JS                   |  
-|---------|-------------------------------------|
-| Week 3  | Multithreading, Java8, Generic...                   | 
-|---------|-------------------------------------|
-| Week 4  | Lambda Expression, Exception Handling, JDBC                   | 
-
 ## 📆 March Progress   
 | Week  | Task Description                    |  
 |---------|-------------------------------------|  
