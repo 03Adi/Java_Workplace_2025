@@ -7,4 +7,4 @@
 // char  - 16 Bits
 // Float - 32 Bits
 // Boolean - 1 Bits
-// Double - 64 Bits
+// Double - 64 Bits 
