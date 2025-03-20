@@ -2,6 +2,8 @@
 
 Welcome to the **Java Workplace** repository! 🚀 This repository serves as a structured archive where I upload and organize my Java projects and tasks on a **monthly basis**.
 
+<img src="https://github.com/03Adi/03Adi/blob/main/54b6c068097599.5b50bca476b9b.gif" alt="Coding" height="150" width="1000">
+
 ## 📌 Repository Overview 
 This repository is designed to maintain my Java development journey, showcasing various projects, exercises, and implementations that I work on each month.
  
