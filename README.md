@@ -16,7 +16,7 @@ Each month, a new folder is created following the naming convention **YYYY-MM** 
 | Week 1  | portfoliio development, github production, Java Basics|  
 |---------|-------------------------------------|
 | Week 2  |                   |  
-|---------|-------------------------------------|
+|---------|-------------------------------------| 
 | Week 3  |                    | 
 |---------|-------------------------------------|
 | Week 4  |                   | 
