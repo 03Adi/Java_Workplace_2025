@@ -1,7 +1,7 @@
 # Java Workplace 2025
     
 Welcome to the **Java Workplace** repository! 🚀 This repository serves as a structured archive where I upload and organize my Java projects and tasks on a **monthly basis**. 
-    
+     
 <img src="https://github.com/03Adi/Java_Workplace_2025/blob/main/Screenshot%202025-03-21%20012446.png" alt="Coding" height="400" width="1000">
  
 ## 📌 Repository Overview 
