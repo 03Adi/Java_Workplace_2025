@@ -39,7 +39,7 @@ java_workplace/
 │   └── ...
 │-- README.md
 ```
-
+ 
 ## 🚀 Projects and Contributions
 I will be adding the following types of Java-based work:
 - **Mini Projects:** Small projects showcasing different Java concepts.
