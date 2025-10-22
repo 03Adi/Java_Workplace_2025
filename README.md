@@ -10,7 +10,7 @@ This repository is designed to maintain my Java development journey, showcasing 
 ## 📅 Monthly Breakdown
 Each month, a new folder is created following the naming convention **YYYY-MM** (e.g., `2025-02` for February 2025). Inside each folder, you will find Java files, documentation, and relevant resources.
       
-## 📆 March Progress   
+## 📆 March Progress    
 | Week  | Task Description                    |  
 |---------|-------------------------------------|  
 | Week 1  | portfoliio development, github production, Java Basics|  
